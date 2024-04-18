@@ -1,6 +1,6 @@
 
 # Welcome 👋
-🔭 I’m currently working on New E-commerce site<br>👯 I’m looking to collaborate on projects <br>🌱 I’m currently learning unity<br>⚡ Fun fact i was a offshore diver for 10 years.
+🔭 I’m currently working on a new web application <br>👯 I’m looking to collaborate on projects <br>🌱 I’m currently learning advanced JavaScript topics <br>⚡ Fun fact i was a offshore diver for 10 years.
 
 
 # 💻 Tech Stack:
